@@ -75,7 +75,7 @@ python gemini_proxy.py
 import requests
 
 # 设置代理程序地址和密钥
-PROXY_URL = "http://your-proxy-server:9000"
+PROXY_URL = "http://your-proxy-server:8000"
 PROXY_KEY = "your_proxy_secret_key"
 
 # 调用示例
