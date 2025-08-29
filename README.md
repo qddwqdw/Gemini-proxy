@@ -1,5 +1,5 @@
 # Gemini API 代理服务
-gemini api agent services
+gemini api proxy services
 
 >gemini轮询密钥及轮询公共代理服务\
 >Gemini Polling Key and Polling Public Proxy Service
